@@ -11,7 +11,7 @@
 ## Technologies Used
 
 - **C++17**
-- **WebSocket library (e.g., uWebSockets / Boost.Beast / custom)**  
+- **WebSocket library**  
 - **nlohmann/json** for JSON parsing
 - **Standard C++ STL**
 
