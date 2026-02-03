@@ -1,7 +1,5 @@
 # TeamUp - Local WebSocket C++ Server
 
-I strongly advise against using this for a server, its unsecure. You could implement the realtime part from here, if you wish.
-
 ## Features
 
 - **WebSocket Communication**: Enables bi-directional real-time data transfer with C# clients.
